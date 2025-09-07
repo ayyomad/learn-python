@@ -1,0 +1,1 @@
+ithtien copy eduthit vere file lek add akum ,athan cheyan ponath ,this prigramms intention is to copy the coentent in this file and paste it to another file called this2.txt
